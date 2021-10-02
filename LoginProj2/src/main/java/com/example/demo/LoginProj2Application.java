@@ -8,7 +8,7 @@ public class LoginProj2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LoginProj2Application.class, args);
-		System.out.println("Application running");
+		System.out.println("Application running:");
 	}
 
 }
